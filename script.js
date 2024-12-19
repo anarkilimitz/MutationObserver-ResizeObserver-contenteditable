@@ -39,3 +39,4 @@ console.log(ivan); // проверка
 console.log(alex);
 
 // Test
+// Merge
