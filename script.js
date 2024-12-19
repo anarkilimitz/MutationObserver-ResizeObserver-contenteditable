@@ -37,3 +37,5 @@ alex.hello();
 
 console.log(ivan); // проверка
 console.log(alex);
+
+// Test
